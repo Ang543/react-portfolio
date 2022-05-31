@@ -162,45 +162,45 @@ p {
   width: 30%;
 }
 
-/* #runbuddy-img {
-  background-image: url("../images/Run-Buddy-Screenshot.PNG");
+ #runbuddy-img {
+  background-image: url("../public/images/Run-Buddy-Screenshot.PNG");
 }
 
-#horiseon-img {
-  background-image: url("../images/horiseon-Screenshot.PNG");
+/* /* #horiseon-img {
+  background-image: url("../public/images/horiseon-Screenshot.PNG");
 }
 
 #password-generator-img {
-  background-image: url("../images/password-generator.PNG");
+  background-image: url("../public/images/password-generator.PNG");
 }
 
 #chuck-n-go-img {
-  background-image: url("../images/chuck-n-go.PNG");
+  background-image: url("../public/images/chuck-n-go.PNG");
 }
 
 #resume-img {
-  background-image: url("../images/resume.png");
+  background-image: url("../public/images/resume.png");
 }
 
 #email-img {
-  background-image: url("../images/email.png");
+  background-image: url("../public/images/email.png");
 }
 
 #phone-img {
-  background-image: url("../images/phone.png");
+  background-image: url("../public/images/phone.png");
 }
 
 #github-img {
-  background-image: url("../images/github.png");
+  background-image: url("../public/images/github.png");
 }
 
 #resume-img {
-  background-image: url("../images/resume.png");
+  background-image: url("../public/images/resume.png");
 }
 
 #placeholder-img {
-  background-image: url("../images/placeholder.jpg");
-} */
+  background-image: url("../public/images/placeholder.jpg");
+} */  */
 
 .project-content {
   display: none;

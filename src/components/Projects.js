@@ -3,39 +3,66 @@ import React from 'react';
 function Projects(props) {
     return (
         <div id="projects" class="content2">
-                <h2>Projects</h2>
+        
+        <h2>Projects</h2>
+        
         <div class="container">
+
+
             <div id="runbuddy-img" class="project-imgs">
-                <div class="project-content">
+        
+              
+            <div class="project-content">
+                <a href="https://ang543.github.io/run-buddy/"> 
                     <h4>Run Buddy</h4>
                     <p> My first look into HTML and CSS. 
                     </p>
+                </a>
                 </div>
             </div>
+
+
+      
             <div id="horiseon-img" class="project-imgs">
                 <div class="project-content">
+                    <a href="https://ang543.github.io/horiseon/"> 
                     <h4>Horiseon</h4>
                     <p> Using what I learned from previous projects, I refactored the code (HTML & CSS)
                     </p>
+                    </a>
                 </div>
             </div>
+      
+        
+        
             <div id="password-generator-img" class="project-imgs">
                 <div class="project-content">
+                    <a href="https://ang543.github.io/passwordgenerator/"> 
                     <h4>Password Generator</h4>
                     <p> First major look into JavaScript. I created a password generator that lets you use numbers, 
                         letters, and special characters to create a unique password.
                     </p>
+                    </a>
                 </div>
             </div>
+            
+            
+            
             <div id="chuck-n-go-img" class="project-imgs">
                 <div class="project-content">
+                    <a href="https://ang543.github.io/chuck-n-go/"> 
                     <h4>Chuck N' Go</h4>
                     <p> My first group project. An application that is essentially a GPS that also tells Chuck Norris jokes.  
                     </p>
+                    </a>
                 </div>
             </div>
+            
+            
+            
             <div id="placeholder-img" class="project-imgs">
                 <div class="project-content">
+                    <a href="#"> 
                     <h4>placeholder</h4>
                     <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                         labore
@@ -47,10 +74,15 @@ function Projects(props) {
                         in
                         culpa qui officia deserunt mollit anim id est laborum.
                     </p>
+                    </a>
                 </div>
             </div>
+            
+            
+            
             <div id="placeholder-img" class="project-imgs">
                 <div class="project-content">
+                    <a href="#"> 
                     <h4>placeholder</h4>
                     <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                         labore
@@ -62,6 +94,7 @@ function Projects(props) {
                         in
                         culpa qui officia deserunt mollit anim id est laborum.
                     </p>
+                    </a>
                 </div>
             </div>
         </div>
