@@ -9,7 +9,7 @@ function About(props) {
            to  military, to chemical operation, etc. im currently expanding my knowledge into the feild of 
            web development and in the future hopefully other computer technologies as well.
         </p>
-        <img src="./assets/images/selfie.jpg" alt="about me"/>
+        <img src="../public/images/selfie.JPG" alt="about me"/>
     </div>
     );
 }

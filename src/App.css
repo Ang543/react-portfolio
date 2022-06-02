@@ -115,7 +115,7 @@ p {
 }
 
 .content {
-  /* width: 97.5%; */
+  width: 90%;
   display: inline-block;
   margin-left: 100px;
   margin-right: 100px;
@@ -166,8 +166,8 @@ p {
   background-image: url("../public/images/Run-Buddy-Screenshot.PNG");
 }
 
-/* /* #horiseon-img {
-  background-image: url("../public/images/horiseon-Screenshot.PNG");
+ #horiseon-img {
+  background-image: url("../public/images/Horiseon-Screenshot.PNG");
 }
 
 #password-generator-img {
@@ -179,7 +179,7 @@ p {
 }
 
 #resume-img {
-  background-image: url("../public/images/resume.png");
+  background-image: url("../public/images/resume.PNG");
 }
 
 #email-img {
@@ -194,13 +194,9 @@ p {
   background-image: url("../public/images/github.png");
 }
 
-#resume-img {
-  background-image: url("../public/images/resume.png");
-}
-
 #placeholder-img {
-  background-image: url("../public/images/placeholder.jpg");
-} */  */
+  background-image: url("../public/images/placeholder.JPG");
+} 
 
 .project-content {
   display: none;

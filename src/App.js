@@ -5,13 +5,13 @@ import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Resume from './components/Resume';
-
+import{useState} from 'react'
 
 
 function App() {
 
   // Make react state
-var currentPage = "Projects";
+var [currentPage, setCurrentPage] = useState("About");
 function renderPage(){
   if (currentPage === "About"){
     return <About/>
@@ -30,7 +30,7 @@ function renderPage(){
   return (
     <div className="App">
      
-<Header/>
+<Header setCurrentPage={setCurrentPage}/>
 
 
 <section class="hero">

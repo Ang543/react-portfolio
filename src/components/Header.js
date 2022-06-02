@@ -7,7 +7,7 @@ function Header(props) {
     <div class="header">
         <h1>Angelo Saverino's Portfolio</h1>
 
-     <Navbar/>
+     <Navbar setCurrentPage={props.setCurrentPage}/>
         
     </div>
 </header>
